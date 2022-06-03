@@ -49,4 +49,4 @@ while op != 4:
         estatura = float(input("Ingrese su estatura en m: "))
         calculoIMC(peso,estatura)
 
-
+print("Fin del semestre")
