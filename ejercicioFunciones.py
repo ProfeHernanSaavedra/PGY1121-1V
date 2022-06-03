@@ -50,3 +50,4 @@ while op != 4:
         calculoIMC(peso,estatura)
 
 print("Fin del semestre")
+print("FIN")
